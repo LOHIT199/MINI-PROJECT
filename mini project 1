@@ -1,0 +1,7 @@
+echo '#MINI-PROJECT'>>README md
+git init
+git add README.Md
+git commit-''first commit''
+git branch-m main
+git remote add origin https;//github.com/LOHIT199/MINI-PROJECT.git
+git .push-u origin main
